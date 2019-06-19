@@ -1,0 +1,19 @@
+{
+  "foods":[
+    {
+      "name":"Ayam Goreng",
+      "description":"Hidangan yang dibuat dari daging ayam dicampur tepung bumbu yang digoreng dalam minyak goreng panas. Beberapa rumah makan siap saji secara khusus menghidangkan ayam goreng, misalnya Kentucky Fried Chicken.",
+      "image":"https://cdn0-production-images-kly.akamaized.net/dAH461P0QJlH2tdSus9zzi0t7TI=/680x383/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2531891/original/049570500_1544710306-resep-ayam-goreng-bumbu-kunyit-sederhana-tapi-enaknya-juara.jpg",
+    },
+    {
+      "name":"Sup Ayam",
+      "description":"sup yang terbuat dari ayam, yang dicampur dengan berbagai bahan makanan lainnya. Sup ayam klasik terdiri dari kaldu encer, yang dimasukkan potongan ayam atau sayuran; umumnya ditambahkan dengan pasta, dumpling, atau padi-padian seperti nasi dan jelai.",
+      "image":"http://www.tokomesin.com/wp-content/uploads/2015/10/sop-ayam-tokomesin.jpg"
+    },
+    {
+      "name":"Sup Ayam",
+      "description":"Sup yang terbuat dari ayam, yang dicampur dengan berbagai bahan makanan lainnya. Sup ayam klasik terdiri dari kaldu encer, yang dimasukkan potongan ayam atau sayuran; umumnya ditambahkan dengan pasta, dumpling, atau padi-padian seperti nasi dan jelai.",
+      "image":"http://www.tokomesin.com/wp-content/uploads/2015/10/sop-ayam-tokomesin.jpg"
+    }
+  ]
+}
